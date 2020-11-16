@@ -1,1 +1,2 @@
 # KanoSid
+Sidkano mr
